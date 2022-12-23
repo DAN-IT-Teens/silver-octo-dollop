@@ -1,0 +1,94 @@
+.header_menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 60px;
+
+    background-color: aliceblue;
+}
+
+.logo{
+    padding: 36px;
+    font-size: 56px;
+    font-family: Poppins;
+    font-weight: 600;
+}
+
+.links{
+    font-size: 25px;
+    color: black;
+    font-family: Poppins;
+}
+
+.links:hover{
+    font-size: 25px;
+    color: rgb(0, 183, 255);
+    font-family: Poppins;
+}
+
+.img{
+    padding: 36px 36px;
+    width: 50px;
+    height: 50px;
+}
+
+.img:hover{
+    padding: 36px 36px;
+    width: 50px;
+    height: 50px;
+
+    opacity: 0.5;
+}
+
+.banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(239, 255, 250);
+}
+
+.logo2{
+    font-size: 48px;
+    font-family: Poppins;
+    font-weight: 900;
+    color: black;
+    max-width: 463px;
+}
+
+.text_of_baner{
+    font-size: 24px;
+    font-family: Poppins;
+    font-weight: 900;
+    color: black;
+    max-width: 498px;
+}
+
+.banuak{
+    max-width: 800px;
+    padding: 36px;
+}
+
+.img3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 761x;
+    height: 636px;
+}
+
+.blue_button{
+    background-color: rgb(0, 183, 255);
+    border: none;
+    border-radius: 6px;
+    font-size: 24px;
+    font-family: Poppins;
+    color: aliceblue;
+    padding: 30px;
+}
+
+.arrow{
+    gap: 16px;
+    width: 36px;
+    height: 15px;
+}
+
